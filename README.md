@@ -61,6 +61,4 @@ You can install the required dependencies using the `requirements.txt` file.
 ## Author
 - Rabia Shakoor
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 # Variational-autoencoder
